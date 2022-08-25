@@ -1,0 +1,20 @@
+{
+  "name": "music-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "consola": "^2.15.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
